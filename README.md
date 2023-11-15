@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wells99
 - 👀 I’m interested in Web development
-- 🌱 I’m currently practing HTML, CSS and JS
+- 🌱  JS and React
 
 <!---
 wells99/wells99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
