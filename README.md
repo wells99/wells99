@@ -1,4 +1,4 @@
-- 👋 Fala galera beleza?! @wells99 aqui.
+- 👋 Fala galera beleza?!
 - 👀 Tô sempre de olho em Desenvolvimento Web
 - 🌱  JS, React, HTML, CSS, Tailwind, Wordpress.
 
