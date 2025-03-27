@@ -1,5 +1,7 @@
 Sou um desenvolvedor web e Mobile 📱 fascinado por tecnologia 🔥.
-criando interfaces modernas e responsivas. 🎨🖌️ 
+
+Criando interfaces modernas e responsivas 🎨🖌️.
+
 💡 Transformando ideias em Projetos. 
 
 stacks atuais: Trabalho com React.js,PHP, JavaScript, CSS, HTML, Tailwind e React Native. 
