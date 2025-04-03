@@ -1,8 +1,6 @@
-Sou um desenvolvedor web e Mobile 📱 fascinado por tecnologia 🔥.
+Olá 👋 seja bem vindo, sou um desenvolveor Fullstack focado em soluções para Web & Mobile 📱.
 
-Criando interfaces modernas e responsivas 🎨🖌️.
-
-💡 Transformando ideias em Projetos. 
+💡 Transformando ideias em Projetos modernos e responsivos 💡 
 
 stacks atuais: Trabalho com React.js,PHP, JavaScript, CSS, HTML, Tailwind e React Native. 
 <!---
