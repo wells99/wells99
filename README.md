@@ -1,4 +1,4 @@
-Olá 👋 seja bem vindo, sou um desenvolveor Fullstack focado em soluções para Web & Mobile 📱.
+Olá 👋 seja bem vindo, sou um desenvolvedor Fullstack focado em soluções para Web & Mobile 📱.
 
 💡 Transformando ideias em Projetos modernos e responsivos 💡 
 
